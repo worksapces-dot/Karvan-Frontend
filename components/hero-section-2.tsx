@@ -91,14 +91,14 @@ export default function HeroSection() {
                                 </div>
                             </div>
                             <div className="mx-auto max-w-md text-center">
-                                <h1 className="text-balance font-serif text-4xl font-medium sm:text-5xl">Ship faster. Integrate smarter.</h1>
-                                <p className="text-muted-foreground mt-4 text-balance">Veil is your all-in-one engine for adding seamless integrations to your app.</p>
+                                <h1 className="text-balance font-serif text-4xl font-medium sm:text-5xl">The AI Backbone for Your SMB.</h1>
+                                <p className="text-muted-foreground mt-4 text-balance">Karvan handles your Support, Finance, and Ops while you focus on growth. The only AI agent built to actually run your business, not just talk about it.</p>
 
                                 <Button
                                     asChild
                                     className="mt-6 pr-1.5">
                                     <Link href="#link">
-                                        <span className="text-nowrap">Start Building</span>
+                                        <span className="text-nowrap">Hire Your AI Agent</span>
                                         <ChevronRight className="opacity-50" />
                                     </Link>
                                 </Button>

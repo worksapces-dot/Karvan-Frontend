@@ -12,16 +12,16 @@ export default function Features() {
         <section className="bg-background @container py-24">
             <div className="mx-auto max-w-2xl px-6">
                 <div>
-                    <h2 className="text-balance font-serif text-4xl font-medium">Powerful Features for Modern Teams</h2>
-                    <p className="text-muted-foreground mt-4 text-balance">Everything you need to build, connect, and scale your integrations effortlessly.</p>
+                    <h2 className="text-balance font-serif text-4xl font-medium">The All-in-One AI Agent for Your SMB</h2>
+                    <p className="text-muted-foreground mt-4 text-balance">Karvan automates the complex back-office tasks that slow you down, from customer support to financial tracking.</p>
                 </div>
                 <div className="@xl:grid-cols-2 mt-12 grid gap-3 *:p-6">
                     <Card
                         variant="mixed"
                         className="row-span-2 grid grid-rows-subgrid">
                         <div className="space-y-2">
-                            <h3 className="text-foreground font-medium">Seamless Integrations</h3>
-                            <p className="text-muted-foreground text-sm">Connect your favorite tools and services with just a few clicks.</p>
+                            <h3 className="text-foreground font-medium">AI-First Support</h3>
+                            <p className="text-muted-foreground text-sm">Karvan handles customer inquiries 24/7, resolving tickets and escalating complex issues autonomously.</p>
                         </div>
                         <div
                             aria-hidden
@@ -62,8 +62,8 @@ export default function Features() {
                         variant="mixed"
                         className="row-span-2 grid grid-rows-subgrid overflow-hidden">
                         <div className="space-y-2">
-                            <h3 className="text-foreground font-medium">Real-time Sync</h3>
-                            <p className="text-muted-foreground text-sm">Keep your data synchronized across all platforms automatically.</p>
+                            <h3 className="text-foreground font-medium">Real-time Finance</h3>
+                            <p className="text-muted-foreground text-sm">Automatic revenue tracking, invoice management, and financial insights that run without you.</p>
                         </div>
                         <div
                             aria-hidden
@@ -79,8 +79,8 @@ export default function Features() {
                         variant="mixed"
                         className="row-span-2 grid grid-rows-subgrid overflow-hidden">
                         <div className="space-y-2">
-                            <h3 className="text-foreground font-medium">Developer First</h3>
-                            <p className="text-muted-foreground mt-2 text-sm">Built with developers in mind, featuring comprehensive APIs and SDKs.</p>
+                            <h3 className="text-foreground font-medium">Autonomous Ops</h3>
+                            <p className="text-muted-foreground mt-2 text-sm">Managing inventory, tracking stock levels, and providing alerts before you even know there's a problem.</p>
                         </div>
                         <div
                             aria-hidden
@@ -123,8 +123,8 @@ export default function Features() {
                         variant="mixed"
                         className="row-span-2 grid grid-rows-subgrid">
                         <div className="space-y-2">
-                            <h3 className="font-medium">Enterprise Ready</h3>
-                            <p className="text-muted-foreground text-sm">Scale confidently with enterprise-grade security and reliability.</p>
+                            <h3 className="font-medium">Bank-Grade Security</h3>
+                            <p className="text-muted-foreground text-sm">Enterprise-level encryption ensures your SMB data stays private and secure at all times.</p>
                         </div>
 
                         <div className="pointer-events-none relative -ml-7 flex size-44 items-center justify-center pt-5">

@@ -5,25 +5,25 @@ export default function Stats() {
         <section className="bg-background @container py-24">
             <div className="mx-auto max-w-2xl px-6">
                 <div className="space-y-4">
-                    <h2 className="text-balance font-serif text-4xl font-medium">Trusted by Teams Worldwide</h2>
-                    <p className="text-muted-foreground text-balance">Our platform delivers measurable results that help businesses scale faster and work smarter.</p>
+                    <h2 className="text-balance font-serif text-4xl font-medium">Measurable ROI for Your SMB</h2>
+                    <p className="text-muted-foreground text-balance">Karvan deliver results that matter. Reduce costs and scale your operations without adding headcount.</p>
                 </div>
                 <div className="@xl:grid-cols-3 mt-12 grid grid-cols-2 gap-6 text-sm">
                     <div className="border-y py-6">
                         <p className="text-muted-foreground text-xl">
-                            <span className="text-foreground font-medium">99.9%</span> Uptime guarantee.
+                            <span className="text-foreground font-medium">90%</span> Reduction in manual support tickets.
                         </p>
                     </div>
 
                     <div className="border-y py-6">
                         <p className="text-muted-foreground text-xl">
-                            <span className="text-foreground font-medium">10M+</span> API requests processed daily.
+                            <span className="text-foreground font-medium">24/7</span> Autonomous monitoring of finance & ops.
                         </p>
                     </div>
 
                     <div className="border-y py-6">
                         <p className="text-muted-foreground text-xl">
-                            <span className="text-foreground font-medium">500+</span> Enterprise customers.
+                            <span className="text-foreground font-medium">1,500+</span> Hours saved per SMB annually.
                         </p>
                     </div>
                 </div>

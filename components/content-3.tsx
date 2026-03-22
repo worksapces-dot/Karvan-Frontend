@@ -5,28 +5,28 @@ export default function Content() {
         <section className="bg-background @container py-24">
             <div className="mx-auto max-w-2xl px-6">
                 <div className="space-y-4">
-                    <h2 className="text-balance font-serif text-4xl font-medium">Create Content with AI Assistance</h2>
-                    <p className="text-muted-foreground">Our AI assistant helps you create better content faster. Generate ideas, improve your writing, and design layouts with simple prompts.</p>
+                    <h2 className="text-balance font-serif text-4xl font-medium">The Back Office of the Future</h2>
+                    <p className="text-muted-foreground">Karvan isn't just another tool; it's a full-time partner for your business. We integrate with your stack to handle the data heavy-lifting.</p>
                 </div>
                 <div className="@xl:grid-cols-3 mt-12 grid grid-cols-2 gap-6 text-sm">
                     <div className="space-y-3 border-t pt-6">
                         <Lightbulb className="text-muted-foreground size-4" />
                         <p className="text-muted-foreground leading-5">
-                            <span className="text-foreground font-medium">Generate Ideas</span> Spark creativity with AI-powered content suggestions and inspiration.
+                            <span className="text-foreground font-medium">Deep Integration</span> Karvan connects directly to your existing finance and support tools.
                         </p>
                     </div>
 
                     <div className="space-y-3 border-t pt-6">
                         <Pencil className="text-muted-foreground size-4" />
                         <p className="text-muted-foreground leading-5">
-                            <span className="text-foreground font-medium">Improve Writing</span> Enhance your text with smart editing suggestions and style refinements.
+                            <span className="text-foreground font-medium">Smart Insights</span> Get real-time financial reporting and operational alerts automatically.
                         </p>
                     </div>
 
                     <div className="space-y-3 border-t pt-6">
                         <PencilRuler className="text-muted-foreground size-4" />
                         <p className="text-muted-foreground leading-5">
-                            <span className="text-foreground font-medium">Design Layouts</span> Create visually appealing layouts that capture your audience's attention.
+                            <span className="text-foreground font-medium">Tailored Automation</span> Customize how Karvan handles your specific business workflows.
                         </p>
                     </div>
                 </div>
