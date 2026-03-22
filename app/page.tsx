@@ -1,19 +1,25 @@
-import { Button } from "@/components/ui/button"
+import HeroSection from "@/components/hero-section-2"
+import LogoCloud from "@/components/logo-cloud-2"
+import FeaturesSection from "@/components/features-2"
+import ContentSection from "@/components/content-3"
+import StatsSection from "@/components/stats-2"
+import TeamSection from "@/components/team-2"
+import TestimonialsSection from "@/components/testimonials-4"
+import CTASection from "@/components/call-to-action-1"
+import FooterSection from "@/components/footer-2"
 
 export default function Page() {
   return (
-    <div className="flex min-h-svh p-6">
-      <div className="flex max-w-md min-w-0 flex-col gap-4 text-sm leading-loose">
-        <div>
-          <h1 className="font-medium">Project ready!</h1>
-          <p>You may now add components and start building.</p>
-          <p>We&apos;ve already added the button component for you.</p>
-          <Button className="mt-2">Button</Button>
-        </div>
-        <div className="font-mono text-xs text-muted-foreground">
-          (Press <kbd>d</kbd> to toggle dark mode)
-        </div>
-      </div>
+    <div className="flex flex-col min-h-screen">
+      <HeroSection />
+      <LogoCloud />
+      <FeaturesSection />
+      <ContentSection />
+      <StatsSection />
+      <TeamSection />
+      <TestimonialsSection />
+      <CTASection />
+      <FooterSection />
     </div>
   )
 }
